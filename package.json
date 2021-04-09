@@ -1,11 +1,14 @@
 {
-	"name": "source-map-loader-issue",
-	"version": "1.0.0",
-	"main": "index.js",
-	"author": "Jarrod Payne",
-	"private": true,
-	"workspaces": [
-		"libs/*",
-		"apps/*"
-	]
+  "name": "source-map-loader-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jarrod Payne",
+  "private": true,
+  "workspaces": [
+    "libs/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "cd libs/ui && yarn build && cd ../../apps/app && yarn dev"
+  }
 }

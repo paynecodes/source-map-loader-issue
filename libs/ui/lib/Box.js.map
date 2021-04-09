@@ -1,1 +1,1 @@
-{"version":3,"file":"Box.js","sourceRoot":"","sources":["../src/Box.tsx"],"names":[],"mappings":";;;;;;AAAA,gDAA0B;AAEb,QAAA,GAAG,GAAa,UAAC,KAAK;IACjC,OAAO,CAAC,2CAAM,KAAK,CAAC,QAAQ,CAAO,CAAC,CAAC;AACvC,CAAC,CAAA"}
+{"version":3,"file":"Box.js","sourceRoot":"","sources":["../src/Box.tsx"],"names":[],"mappings":";;;;;;AAAA,gDAA0B;AAEb,QAAA,GAAG,GAAa,UAAC,KAAK;IACjC,OAAO,CAAC,uCAAK,SAAS,EAAC,KAAK,IAAE,KAAK,CAAC,QAAQ,CAAO,CAAC,CAAC;AACvD,CAAC,CAAA"}

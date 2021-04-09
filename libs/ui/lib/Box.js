@@ -6,6 +6,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.Box = void 0;
 var react_1 = __importDefault(require("react"));
 exports.Box = function (props) {
-    return (react_1.default.createElement("div", null, props.children));
+    return (react_1.default.createElement("div", { className: "box" }, props.children));
 };
 //# sourceMappingURL=Box.js.map
