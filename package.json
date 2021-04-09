@@ -1,0 +1,11 @@
+{
+	"name": "source-map-loader-issue",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Jarrod Payne",
+	"private": true,
+	"workspaces": [
+		"libs/*",
+		"apps/*"
+	]
+}
